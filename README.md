@@ -4,7 +4,7 @@
 This project focuses on building a Fake News Detection model that classifies news articles as REAL or FAKE using Natural Language Processing (NLP) and Machine Learning techniques.
 The rise of fake news has created challenges in verifying trustworthy information. This model aims to assist in detecting misleading or fabricated news efficiently.
 
-🚀 Features
+#🚀 Features
 
 Preprocessing of raw text (removing stopwords, punctuation, and special characters).
 
@@ -16,13 +16,13 @@ Achieved an accuracy of 92.8% on the dataset.
 
 Evaluation using confusion matrix and performance metrics.
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 Python 3
 
 Jupyter Notebook
 
-Libraries:
+#Libraries:
 
 pandas
 
@@ -34,7 +34,7 @@ nltk
 
 matplotlib
 
-📂 Dataset
+#📂 Dataset
 
 The dataset used contains labeled news articles categorized as REAL or FAKE.
 
@@ -47,7 +47,7 @@ text: The body of the article.
 label: Target variable (REAL or FAKE).
 
 
-📊 Model Training & Evaluation
+#📊 Model Training & Evaluation
 
 Preprocess dataset using TF-IDF Vectorizer.
 
@@ -60,7 +60,6 @@ Visualize results using a confusion matrix.
 ✅ Achieved 92.8% accuracy on test data.
 
 
-📌 Future Improvements
 
 Use deep learning models (e.g., LSTMs, Transformers like BERT).
 
